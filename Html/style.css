@@ -1,0 +1,13 @@
+.tabela {
+    background-color: bisque;
+    border: solid black 2px;
+}
+
+.cabeca {
+    background-color: rgb(157, 157, 197);
+}
+
+.corpo {
+    border:rgb(9, 9, 61) solid 1px;
+    background-color: rgb(190, 173, 146);
+}
